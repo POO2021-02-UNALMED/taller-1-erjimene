@@ -1,0 +1,2 @@
+No me dejo realizar commit.
+Debe ser porque la carpeta estaba vacia.
